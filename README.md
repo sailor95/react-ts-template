@@ -1,1 +1,5 @@
-# Ritual App
+# React TypeScript Webpack Boilerplate
+
+- React
+- TypeScript
+- ESLint
